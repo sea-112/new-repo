@@ -1,1 +1,2 @@
-hello world\nsecond line
+hello world
+second line
